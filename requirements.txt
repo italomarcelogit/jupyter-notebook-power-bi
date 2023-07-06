@@ -1,0 +1,2 @@
+powerbiclient
+pandas
